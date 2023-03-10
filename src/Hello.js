@@ -1,7 +1,12 @@
 // import { Component } from "react";
 
 function Greet() {
-    return <h1>Hello AnyTime User!</h1>
+    return (
+    <div>
+        <h1>Hello AnyTime!</h1>
+        <h2>This coding mess is stressful man</h2>
+    </div>    
+    )
 }
 
 export default Greet
